@@ -1,8 +1,13 @@
 {
   "name": "b2all-number-formatter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a test library.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vincenttan83/b2all-number-formatter"
+  },
+  "homepage": "https://github.com/vincenttan83/b2all-number-formatter",
   "peerDependencies": {
     "@angular/common": "^9.0.7",
     "@angular/core": "^9.0.7",
