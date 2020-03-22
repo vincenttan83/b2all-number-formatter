@@ -26,7 +26,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
     - run: npm run package
-    - run: cd dist/b2all-number-formatter
-    - run: npm publish
+    - run: npm run package_publish
       env:
         NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
