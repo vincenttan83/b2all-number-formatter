@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "b2all-number-formatter": [
+        "dist/b2all-number-formatter/b2all-number-formatter",
+        "dist/b2all-number-formatter"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
