@@ -10,7 +10,7 @@
       "prefix": "",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-ng-packagr:build",
+          "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
             "tsConfig": "projects/b2all-number-formatter/tsconfig.lib.json",
             "project": "projects/b2all-number-formatter/ng-package.json"
