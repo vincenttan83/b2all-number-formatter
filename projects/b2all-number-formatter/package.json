@@ -1,18 +1,27 @@
 {
-  "name": "b2all-number-formatter",
+  "name": "@b2allsolution/number-formatter",
   "version": "0.0.5",
-  "description": "This is a test library.",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vincenttan83/b2all-number-formatter"
+  "peerDependencies": {
+    "@angular/common": "^11.2.14",
+    "@angular/core": "^11.2.14"
   },
-  "homepage": "https://github.com/vincenttan83/b2all-number-formatter",
+  "private": false,
   "dependencies": {
     "tslib": "^2.0.0"
   },
-  "peerDependencies": {
-    "@angular/common": "^9.0.7",
-    "@angular/core": "^9.0.7"
-  }
+  "description": "This library is number formatter for angular project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenttan83/b2all-number-formatter.git"
+  },
+  "keywords": [
+    "number formatter"
+  ],
+  "author": "Vincent Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincenttan83/b2all-number-formatter/issues"
+  },
+  "homepage": "https://github.com/vincenttan83/b2all-number-formatter#readme"
 }
