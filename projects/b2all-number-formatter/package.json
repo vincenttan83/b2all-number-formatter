@@ -8,9 +8,11 @@
     "url": "https://github.com/vincenttan83/b2all-number-formatter"
   },
   "homepage": "https://github.com/vincenttan83/b2all-number-formatter",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
   "peerDependencies": {
     "@angular/common": "^9.0.7",
-    "@angular/core": "^9.0.7",
-    "tslib": "^1.10.0"
+    "@angular/core": "^9.0.7"
   }
 }
