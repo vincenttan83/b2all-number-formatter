@@ -1,5 +1,5 @@
 {
-  "name": "b2all-npmjs-lib",
+  "name": "@b2allsolution/number-formatter",
   "version": "0.0.3",
   "scripts": {
     "ng": "ng",
@@ -49,5 +49,20 @@
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5"
-  }
+  },
+  "description": "This library is number formatter for angular project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenttan83/b2all-number-formatter.git"
+  },
+  "keywords": [
+    "number formatter"
+  ],
+  "author": "vincenttan83",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincenttan83/b2all-number-formatter/issues"
+  },
+  "homepage": "https://github.com/vincenttan83/b2all-number-formatter#readme"
 }
